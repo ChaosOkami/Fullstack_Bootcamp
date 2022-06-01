@@ -1,2 +1,2 @@
-# Fullstack_Bootcamp
+# Fullstack Bootcamp
 DIO Bootcamp
